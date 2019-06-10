@@ -9,3 +9,7 @@ Project realized as part of the *Éléments de mécanique des fluides* course gi
 ## Author
 
 * **Maxime Meurisse** - [meurissemax](https://github.com/meurissemax)
+
+## Score
+
+* This project received a score of **18/20**.
